@@ -22,7 +22,7 @@
   }
   
   h1 {
-    text-align: center;
+    text-align: center;color:red:
     padding-top: 5%;
     padding-bottom: 5%;
     font-size: 75px;
@@ -38,7 +38,7 @@
   }
   
   span {
-    border: 1px solid lightslategray;
+    border: 1px solid red;
     position: absolute;
     width: 35%;
     height: 30%;
